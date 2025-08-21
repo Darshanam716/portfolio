@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2023 - Present",
+    institution: "Brindavan College of Engineering,Banglore ",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Pre-University Course",
+    duration: "2021 - 2023",
+    institution: "Brilliant P U College,Hassan",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Karnataka Secondary Education Examination Board",
+    duration: "2011 - 2021",
+    institution: "Chiranthana High School, Hassan",
   }
 ]

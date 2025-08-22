@@ -18,7 +18,7 @@ export const skillsData = [
   'Firebase',
   'Numpy',
   'OpenCV',
-  'Node JS'
+  'PHP'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

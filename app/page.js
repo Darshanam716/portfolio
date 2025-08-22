@@ -8,6 +8,12 @@ import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
+import AnimationLottieWrapper from "./components/helper/animation-lottie.jsx";
+
+
+
+
+/*
 async function getData() {
   const res = await fetch(`https://dev.to/api/articles?username=${personalData.devUsername}`)
 
@@ -37,3 +43,18 @@ export default async function Home() {
     </div>
   )
 };
+*/
+export default function Home() {
+  return (
+    <div suppressHydrationWarning >
+      <HeroSection />
+      <AboutSection />
+      <Experience />
+      <Skills />
+      <Projects />
+      <Education />
+      <ContactSection />
+    </div>
+  )
+};
+

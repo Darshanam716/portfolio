@@ -14,7 +14,7 @@ A personal portfolio website showcasing my projects, skills, and experience.
 - **Deployment**: Vercel / Netlify
 
 ## 📸 Screenshots
-![Portfolio Screenshot](./"<img width="1875" height="955" alt="Screenshot 2025-08-22 230835" src="https://github.com/user-attachments/assets/21bba9f0-5d0e-4f8a-a650-dddfd958ca78" />
+<img width="1875" height="955" alt="Screenshot 2025-08-22 230835" src="https://github.com/user-attachments/assets/21bba9f0-5d0e-4f8a-a650-dddfd958ca78" />
 ">)
 
 ## 🔗 Live Demo

@@ -14,7 +14,8 @@ A personal portfolio website showcasing my projects, skills, and experience.
 - **Deployment**: Vercel / Netlify
 
 ## 📸 Screenshots
-<img width="1875" height="955" alt="Screenshot 2025-08-22 230835" src="https://github.com/user-attachments/assets/21bba9f0-5d0e-4f8a-a650-dddfd958ca78" />
+<img width="1883" height="930" alt="image" src="https://github.com/user-attachments/assets/21c675a8-466b-4b29-838b-372f94844d15" />
+" />
 
 ## 🔗 Live Demo
 [Click here to view the live site](https://darshanamportfolio.vercel.app)

@@ -10,6 +10,6 @@ export const personalData = {
   facebook: 'https://www.facebook.com/lovelydarshan.darshu.96/',
   linkedIn: 'https://www.linkedin.com/in/darshan-a-m/',
   twitter: 'https://x.com/Darshan64273074/',
-  leetcode: "https://leetcode.com/u/d-a-r-s-h-a-n/",
+  leetcode: "https://leetcode.com/u/Darshan_AM_123/",
   resume: "https://drive.google.com/file/d/1ER8ZrwGjmn5IR9aSI1Oh5w7l-RQD9d7G/view?usp=drive_link"
 }
